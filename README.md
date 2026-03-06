@@ -1,4 +1,4 @@
-#  Family Bakery Website
+# 🍞 Family Bakery Website
 
  A responsive bakery website template built with HTML, CSS and Bootstrap — perfect for showcasing bakery products and company info beautifully.
 
